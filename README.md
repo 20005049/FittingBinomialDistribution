@@ -1,4 +1,10 @@
-# Fitting Binomial Distribution
+### EX NO: 01
+
+### DATE:
+
+
+
+# <p align="center"> FITTINGBINOMIAL DISTRIBUTION</p>
 
 # Aim : 
 
