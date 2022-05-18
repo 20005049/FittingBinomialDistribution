@@ -4,7 +4,7 @@
 
 
 
-# <p align="center"> FITTINGBINOMIAL DISTRIBUTION</p>
+# <p align="center"> FITTING BINOMIAL DISTRIBUTION</p>
 
 # Aim : 
 
